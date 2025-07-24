@@ -6,3 +6,6 @@ Pinch Climbing.
 The ability to grab objects.
 Speed limit/Clamp.
 Unstick for when your hand is on the wall for a long duration.
+
+References:
+https://github.com/Another-Axiom/GorillaLocomotion
